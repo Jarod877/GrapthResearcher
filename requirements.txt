@@ -1,0 +1,5 @@
+pickle
+pandas
+PySide6
+pyqtgraph
+numpy
